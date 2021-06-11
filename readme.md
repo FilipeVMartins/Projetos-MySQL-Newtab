@@ -1,0 +1,1 @@
+Projetos do Módulo de MySQL da Newtab Academy. Modelagens de database para os projetos da etapa de Front-End.
