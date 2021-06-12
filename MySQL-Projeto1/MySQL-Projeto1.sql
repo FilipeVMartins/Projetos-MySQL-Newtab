@@ -4,7 +4,7 @@ create database mysql_projeto1;
 
 use mysql_projeto1;
 
-#Criar a tabela “transacao” com os seguintes campos: Id Tipo Nome Valor Data de cadastro
+#Criar a tabela “transacao” com os seguintes campos: (Id, Tipo, Nome, Valor, Data de cadastro).
 CREATE TABLE transacao (
 	id INT NOT NULL AUTO_INCREMENT,
   	tipo VARCHAR(6), # String 6 chars max 'venda'(5) or 'compra'(6)
